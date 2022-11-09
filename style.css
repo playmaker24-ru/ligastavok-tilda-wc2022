@@ -1,5 +1,12 @@
 article {
-  width: 290px; height: 240px;
+  width: 290px; height: 245px;
   display: inline-block;
   overflow: hidden;
+}
+
+article.--brazil {
+  height: 233px;
+  display: inline-block;
+  overflow: hidden;
+  background: white;
 }
