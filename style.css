@@ -1,0 +1,5 @@
+article {
+  width: 290px; height: 240px;
+  display: inline-block;
+  overflow: hidden;
+}
