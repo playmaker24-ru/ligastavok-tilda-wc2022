@@ -10,3 +10,17 @@ article.--brazil {
   overflow: hidden;
   background: white;
 }
+
+.news-block {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.news-item {
+  /* width: 100%; */
+  min-width: 150px;
+  max-width: 350px;
+  margin: .5rem;
+  padding: 0.5rem;
+  outline: 1px solid;
+}
